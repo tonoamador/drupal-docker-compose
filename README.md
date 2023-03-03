@@ -3,6 +3,8 @@ Creating a drupal container with docker compose
 
 > Goal: Create a compose config for a local Drupal CMS website
 
+![drupal-test](https://github.com/tonoamador/drupal-docker-compose/blob/main/drupal.png)
+
 [Docker Mastery Lecture](https://www.udemy.com/course/docker-mastery/learn/lecture/6775804)
 
 - This empty directory is where you should create a docker-compose.yml
